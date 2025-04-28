@@ -7,7 +7,7 @@ Vibeverse is a modern social media platform built with **React.js**, **Express.j
 
 # There Are Two Ways to Explore Vibeverse:
 
-## 1. 👉 Live Project
+## 1. 👉 Live Project : https://your-post-client.vercel.app
 You can view the project live without setting up anything:  
 🔗 [Live Project](https://your-post-client.vercel.app)
 for dummy login 
